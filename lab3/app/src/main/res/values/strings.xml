@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="toast">Toast!</string>
+    <string name="notification">Notification</string>
+    <string name="dialog">Всплывающий диалог !</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>

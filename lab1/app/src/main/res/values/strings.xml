@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="b">B</string>
+    <string name="i">I</string>
+    <string name="format_text">Форматируемый текст</string>
+    <string name="serif">serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="monospace">monospace</string>
+</resources>
