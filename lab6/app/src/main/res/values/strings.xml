@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="next_shape">next shape</string>
+    <string name="next_anim">next anim</string>
+</resources>
